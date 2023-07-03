@@ -1,19 +1,19 @@
 export default function getListStudents() {
   return [
     {
-      firstName: 'Thor',
+      firstName: 'Guillaume',
       id: 1,
-      location: 'Asgard',
+      location: 'San Francisco',
     },
     {
-      firstName: 'Zeus',
+      firstName: 'James',
       id: 2,
-      location: 'Olympus',
+      location: 'Columbia',
     },
     {
-      firstName: 'Alexios',
+      firstName: 'Serena',
       id: 5,
-      location: 'Sparta',
+      location: 'San Francisco',
     },
   ];
 }
